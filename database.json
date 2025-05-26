@@ -1,0 +1,336 @@
+[
+  {
+    "intent": "greetings",
+    "patterns": [
+      {
+        "question": "Hello",
+        "response": "Hello! How may I assist you today with information about Government Polytechnic College, Kota?"
+      },
+      {
+        "question": "Hi",
+        "response": "Hi there! Please let me know if you have any questions regarding GPCK."
+      },
+      {
+        "question": "Hey",
+        "response": "Hey! How can I help you with details about the college?"
+      },
+      {
+        "question": "Good morning",
+        "response": "Good morning! What information would you like to know about Government Polytechnic College?"
+      },
+      {
+        "question": "Good evening",
+        "response": "Good evening! How may I assist you today?"
+      },
+      {
+        "question": "Namaste",
+        "response": "Namaste! How can I assist you with information about Government Polytechnic College, Kota?"
+      },
+      {
+        "question": "What's up?",
+        "response": "I am here to help you with any queries related to the college. How may I assist you?"
+      },
+      {
+        "question": "How are you?",
+        "response": "I'm doing well, thank you! How can I assist you regarding GPCK?"
+      },
+      {
+        "question": "Hi there!",
+        "response": "Hello! Feel free to ask any questions you have about the college."
+      }
+    ]
+  },
+
+  {
+    "intent": "admission_process",
+    "patterns": [
+      {
+        "question": "How do I apply for admission?",
+        "response": "You can apply for admission through the official state counseling portal once the application window opens."
+      },
+      {
+        "question": "How to take admission?",
+        "response": "Admission is granted based on merit and counseling. Please register online and follow the instructions provided on the college website."
+      },
+      {
+        "question": "What is the admission procedure?",
+        "response": "The admission procedure includes submitting your application online, document verification, and seat allotment through the counseling process."
+      },
+      {
+        "question": "How to take admission in college?",
+        "response": "During the admission period, please visit the official admission portal, fill out your details accurately, and upload the required documents."
+      },
+      {
+        "question": "GPCK admission process?",
+        "response": "Government Polytechnic College, Kota conducts admissions based on state-level counseling, considering entrance exam rankings."
+      },
+      {
+        "question": "Tell me about admissions",
+        "response": "Admissions generally open annually in July, subject to eligibility criteria and the counseling schedule."
+      },
+      {
+        "question": "When does admission start?",
+        "response": "Admission typically begins in July following the announcement of entrance exam results."
+      }
+    ]
+  },
+  {
+    "intent": "fee_structure",
+    "patterns": [
+      {
+        "question": "What is the fee structure of diploma courses?",
+        "response": "The fee structure varies depending on the branch and usually includes tuition fees, examination fees, and other applicable charges."
+      },
+      {
+        "question": "What are the diploma fees?",
+        "response": "Diploma course fees range approximately from ₹15,000 to ₹25,000 per year, depending on the specific department."
+      },
+      {
+        "question": "Branch-wise fees?",
+        "response": "Fees differ slightly among branches; detailed fee information is available on the official college website."
+      },
+      {
+        "question": "Tell me the fee details",
+        "response": "The total fees include tuition, examination fees, and hostel charges if applicable."
+      },
+      {
+        "question": "How much is the tuition fee?",
+        "response": "The tuition fee is roughly ₹20,000 per year, though it may vary by course and branch."
+      },
+      {
+        "question": "What is the college fee?",
+        "response": "College fees comprise tuition fees, examination fees, and optional hostel fees."
+      }
+    ]
+  },
+  {
+    "intent": "academic_calendar",
+    "patterns": [
+      {
+        "question": "Where can I find the academic calendar?",
+        "response": "The academic calendar can be found on the official college website under the 'Academics' section."
+      },
+      {
+        "question": "When will the calendar be released?",
+        "response": "The academic calendar is usually published before the start of each semester."
+      },
+      {
+        "question": "Semester start dates?",
+        "response": "Semesters generally begin in July and January, respectively."
+      },
+      {
+        "question": "College calendar?",
+        "response": "You can download the annual academic calendar from the official website."
+      },
+      {
+        "question": "Where can I get the holiday list?",
+        "response": "The holiday list is included within the academic calendar and is also displayed on the college notice boards."
+      }
+    ]
+  },
+  {
+    "intent": "syllabus_info",
+    "patterns": [
+      {
+        "question": "What is the syllabus for diploma students?",
+        "response": "The syllabus covers both theoretical subjects and practical labs in accordance with AICTE guidelines."
+      },
+      {
+        "question": "What is the syllabus?",
+        "response": "You can download the detailed syllabus from the college website under the 'Academics' section."
+      },
+      {
+        "question": "Diploma subjects list?",
+        "response": "Each branch has a distinct set of subjects; common ones include Engineering Mathematics, Physics, and branch-specific courses."
+      },
+      {
+        "question": "Where can I find syllabus updates?",
+        "response": "Syllabus updates are published on the official website and communicated through departmental notices."
+      },
+      {
+        "question": "Course content details?",
+        "response": "The course content includes fundamental and advanced topics necessary for diploma completion."
+      }
+    ]
+  },
+  {
+    "intent": "exam_notices",
+    "patterns": [
+      {
+        "question": "Where do I find exam-related notices and updates?",
+        "response": "Exam-related notices are posted on the college notice boards and regularly updated on the official website."
+      },
+      {
+        "question": "Where is the exam notice board?",
+        "response": "The exam notice board is located near the main administrative building."
+      },
+      {
+        "question": "I want to see the exam timetable",
+        "response": "Exam timetables are published on the official website and displayed on notice boards prior to the exams."
+      },
+      {
+        "question": "Exam form submission dates?",
+        "response": "The submission dates for exam forms are announced at least one month before the exams commence."
+      },
+      {
+        "question": "Tell me the exam schedule",
+        "response": "You may find the detailed exam schedule on the college website or on notice boards around the campus."
+      }
+    ]
+  },
+  {
+    "intent": "check_results",
+    "patterns": [
+      {
+        "question": "How can I check my results online?",
+        "response": "You can check your results online by entering your enrollment number on the college's official result portal."
+      },
+      {
+        "question": "How to see the result?",
+        "response": "Visit the official college website and navigate to the 'Results' section to view your marks."
+      },
+      {
+        "question": "When will the exam results come out?",
+        "response": "Results are typically released within 30 days after the completion of exams."
+      },
+      {
+        "question": "I want to download the marksheet",
+        "response": "Marksheet downloads are available on the result portal once the results have been declared."
+      },
+      {
+        "question": "Diploma exam results",
+        "response": "Diploma exam results are published online and communicated via official college announcements."
+      }
+    ]
+  },
+  {
+    "intent": "hostel_facility",
+    "patterns": [
+      {
+        "question": "Is hostel facility available in the college?",
+        "response": "Yes, the college provides separate hostels for boys and girls, with limited availability."
+      },
+      {
+        "question": "Tell me about the hostel",
+        "response": "The hostel offers basic accommodation, mess facilities, and security for the students."
+      },
+      {
+        "question": "Boys and girls hostel?",
+        "response": "Separate hostels are available on campus for boys and girls."
+      },
+      {
+        "question": "Is there a mess facility in the hostel?",
+        "response": "Yes, the hostel mess serves nutritious meals to the residents."
+      },
+      {
+        "question": "College hostel fees",
+        "response": "Hostel fees are charged separately from tuition fees and cover accommodation and mess charges."
+      }
+    ]
+  },
+  {
+    "intent": "scholarships",
+    "patterns": [
+      {
+        "question": "Are there any scholarships available for students?",
+        "response": "Yes, various scholarships are offered based on merit, category, and financial need."
+      },
+      {
+        "question": "How do I apply for a scholarship?",
+        "response": "You may apply for scholarships by submitting the required application forms and documents at the scholarship office."
+      },
+      {
+        "question": "State or central scholarships?",
+        "response": "Both state and central government scholarships are available to eligible students."
+      },
+      {
+        "question": "What is the scholarship eligibility?",
+        "response": "Eligibility criteria depend on academic performance, category, and income limits."
+      },
+      {
+        "question": "Will I get financial aid?",
+        "response": "Financial aid is provided to deserving students after verification of eligibility and supporting documents."
+      }
+    ]
+  },
+  {
+    "intent": "anti_ragging_policy",
+    "patterns": [
+      {
+        "question": "What is the college policy on ragging?",
+        "response": "The college maintains a zero-tolerance policy towards ragging and strictly adheres to anti-ragging laws."
+      },
+      {
+        "question": "Is ragging allowed?",
+        "response": "Ragging is strictly prohibited on campus and surrounding areas."
+      },
+      {
+        "question": "What are the anti-ragging rules?",
+        "response": "Anti-ragging rules require immediate reporting of incidents and strict action against offenders."
+      },
+      {
+        "question": "How to file a ragging complaint?",
+        "response": "Complaints can be filed with the anti-ragging committee or through the official college grievance portal."
+      },
+      {
+        "question": "Who is on the ragging committee?",
+        "response": "The anti-ragging committee includes faculty members and senior student representatives."
+      }
+    ]
+  },
+
+  {
+    "intent": "college ke bare mein",
+    "patterns": [
+      {
+        "question": "college ke baare mein batao",
+        "response": "The college maintains a zero-tolerance policy towards ragging and strictly adheres to anti-ragging laws."
+      },
+      {
+        "question": "college kesa hai",
+        "response": "Ragging is strictly prohibited on campus and surrounding areas."
+      },
+      {
+        "question": "What are the anti-ragging rules?",
+        "response": "Anti-ragging rules require immediate reporting of incidents and strict action against offenders."
+      },
+      {
+        "question": "How to file a ragging complaint?",
+        "response": "Complaints can be filed with the anti-ragging committee or through the official college grievance portal."
+      },
+      {
+        "question": "Who is on the ragging committee?",
+        "response": "The anti-ragging committee includes faculty members and senior student representatives."
+      }
+    ]
+  },
+
+  {
+  "intent": "faculty_info",
+  "patterns": [
+    {
+      "question": "Tell me about the faculty",
+      "response": "Here is our principal:<br><img src='/static/images/rk sharma.jpg' width='300' height='200'><br><b>Prof. Rajesh Sharma</b> (Principal)"
+    },
+    {
+      "question": "Who are the principal?",
+      "response": "Prof. Rajesh Sharma is the current Principal of Government Polytechnic College, Kota. He has vast experience in Mechanical Engineering and administration.<br><br><img src='/static/images/about_college.jpg' width='250' height='300'>"
+
+    },
+    {
+      "question": "Who are the faculty members?",
+      "response": "Our experienced faculty includes:<br><br><b>Prof. Rajesh Sharma</b> (Principal)<br><img src='/static/images/rk_sharma.jpg' width='250'><br><br><b>Prof. Neha Verma</b> (Computer Science)<br><img src='/static/images/neha_verma.jpg' width='250'><br><br><b>Prof. Anil Mehta</b> (Electronics)<br><img src='/static/images/anil_mehta.jpg' width='250'>"
+
+    },
+{
+    "question": "Show me the computer lab",
+      "response": "Here is the Computer Lab:<br><img src='/static/images/computer_lab.jpg' width='400'><br><b>Equipped with modern systems, LAN, and internet connectivity</b>"
+},
+
+{
+      "question": "Do you have a library?",
+      "response": "Yes, our college has a spacious library:<br><img src='/static/images/library.jpg' width='400'><br><b>Thousands of technical books, journals, and digital resources</b>"
+    }
+    ]
+}
+]
