@@ -23,11 +23,11 @@ recaptcha = ReCaptcha(app=app)
 
 # Database connectivity (XAMPP default: root user, no password)
 conn = psycopg2.connect(
-    host=os.environ.get('DB_HOST'),
-    user=os.environ.get('DB_USER'),
-    password=os.environ.get('DB_PASS'),
-    dbname=os.environ.get('DB_NAME'),
-    port=int(os.environ.get('DB_PORT', 5432))  # default 5432 if not set
+    host="dpg-d0pvmd8dl3ps73b64sh0-a",
+    user="kashish",
+    password="CqyEI4gDtw7Td8csg1qZlVw3EnTFl98d",
+    dbname="chatbot_00hf",
+    port=5432
 )
 cur = conn.cursor()
 
