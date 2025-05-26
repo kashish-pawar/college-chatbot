@@ -23,7 +23,7 @@ recaptcha = ReCaptcha(app=app)
 
 # Database connectivity (XAMPP default: root user, no password)
 conn = psycopg2.connect(
-    host="dpg-d0pvmd8dl3ps73b64sh0-a",
+     host="dpg-d0pvmd8dl3ps73b64sh0-a.oregon-postgres.render.com",
     user="kashish",
     password="CqyEI4gDtw7Td8csg1qZlVw3EnTFl98d",
     dbname="chatbot_00hf",
