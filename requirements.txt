@@ -4,3 +4,4 @@ flask-mysqldb==0.2.0
 rapidfuzz
 flask_recaptcha
 markupsafe
+mysql
