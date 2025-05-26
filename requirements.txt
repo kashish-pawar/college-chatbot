@@ -5,3 +5,4 @@ rapidfuzz
 flask_recaptcha
 markupsafe
 mysql.connector
+psycopg2
