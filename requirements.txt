@@ -6,3 +6,4 @@ flask_recaptcha
 markupsafe
 mysql.connector
 psycopg2
+os
