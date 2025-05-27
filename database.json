@@ -44,215 +44,217 @@
   {
     "intent": "admission_process",
     "patterns": [
-      {
-        "question": "How do I apply for admission?",
-        "response": "You can apply for admission through the official state counseling portal once the application window opens."
-      },
-      {
-        "question": "How to take admission?",
-        "response": "Admission is granted based on merit and counseling. Please register online and follow the instructions provided on the college website."
-      },
-      {
-        "question": "What is the admission procedure?",
-        "response": "The admission procedure includes submitting your application online, document verification, and seat allotment through the counseling process."
-      },
-      {
-        "question": "How to take admission in college?",
-        "response": "During the admission period, please visit the official admission portal, fill out your details accurately, and upload the required documents."
-      },
-      {
-        "question": "GPCK admission process?",
-        "response": "Government Polytechnic College, Kota conducts admissions based on state-level counseling, considering entrance exam rankings."
-      },
-      {
-        "question": "Tell me about admissions",
-        "response": "Admissions generally open annually in July, subject to eligibility criteria and the counseling schedule."
-      },
-      {
-        "question": "When does admission start?",
-        "response": "Admission typically begins in July following the announcement of entrance exam results."
-      }
-    ]
+  {
+    "question": "How do I apply for admission?",
+    "response": "You can apply for admission to Government Polytechnic College, Kota through the official Rajasthan Polytechnic counseling portal at dteapp.hte.rajasthan.gov.in when the application window opens."
   },
   {
-    "intent": "fee_structure",
-    "patterns": [
-      {
-        "question": "What is the fee structure of diploma courses?",
-        "response": "The fee structure varies depending on the branch and usually includes tuition fees, examination fees, and other applicable charges."
-      },
-      {
-        "question": "What are the diploma fees?",
-        "response": "Diploma course fees range approximately from ₹15,000 to ₹25,000 per year, depending on the specific department."
-      },
-      {
-        "question": "Branch-wise fees?",
-        "response": "Fees differ slightly among branches; detailed fee information is available on the official college website."
-      },
-      {
-        "question": "Tell me the fee details",
-        "response": "The total fees include tuition, examination fees, and hostel charges if applicable."
-      },
-      {
-        "question": "How much is the tuition fee?",
-        "response": "The tuition fee is roughly ₹20,000 per year, though it may vary by course and branch."
-      },
-      {
-        "question": "What is the college fee?",
-        "response": "College fees comprise tuition fees, examination fees, and optional hostel fees."
-      }
-    ]
+    "question": "How to take admission?",
+    "response": "Admission to GPCK is based on merit through the Rajasthan state-level online counseling process. Register on the official portal, provide your academic details, and follow the steps."
   },
   {
-    "intent": "academic_calendar",
-    "patterns": [
-      {
-        "question": "Where can I find the academic calendar?",
-        "response": "The academic calendar can be found on the official college website under the 'Academics' section."
-      },
-      {
-        "question": "When will the calendar be released?",
-        "response": "The academic calendar is usually published before the start of each semester."
-      },
-      {
-        "question": "Semester start dates?",
-        "response": "Semesters generally begin in July and January, respectively."
-      },
-      {
-        "question": "College calendar?",
-        "response": "You can download the annual academic calendar from the official website."
-      },
-      {
-        "question": "Where can I get the holiday list?",
-        "response": "The holiday list is included within the academic calendar and is also displayed on the college notice boards."
-      }
-    ]
+    "question": "What is the admission procedure?",
+    "response": "The admission process includes online registration on the DTE Rajasthan portal, choice filling of colleges and branches, document verification, and seat allotment based on your merit."
   },
   {
-    "intent": "syllabus_info",
-    "patterns": [
-      {
-        "question": "What is the syllabus for diploma students?",
-        "response": "The syllabus covers both theoretical subjects and practical labs in accordance with AICTE guidelines."
-      },
-      {
-        "question": "What is the syllabus?",
-        "response": "You can download the detailed syllabus from the college website under the 'Academics' section."
-      },
-      {
-        "question": "Diploma subjects list?",
-        "response": "Each branch has a distinct set of subjects; common ones include Engineering Mathematics, Physics, and branch-specific courses."
-      },
-      {
-        "question": "Where can I find syllabus updates?",
-        "response": "Syllabus updates are published on the official website and communicated through departmental notices."
-      },
-      {
-        "question": "Course content details?",
-        "response": "The course content includes fundamental and advanced topics necessary for diploma completion."
-      }
-    ]
+    "question": "How to take admission in college?",
+    "response": "To take admission in Government Polytechnic College, Kota, visit the DTE Rajasthan portal during the admission period, register yourself, fill in your choices, and upload the required documents."
   },
   {
-    "intent": "exam_notices",
-    "patterns": [
-      {
-        "question": "Where do I find exam-related notices and updates?",
-        "response": "Exam-related notices are posted on the college notice boards and regularly updated on the official website."
-      },
-      {
-        "question": "Where is the exam notice board?",
-        "response": "The exam notice board is located near the main administrative building."
-      },
-      {
-        "question": "I want to see the exam timetable",
-        "response": "Exam timetables are published on the official website and displayed on notice boards prior to the exams."
-      },
-      {
-        "question": "Exam form submission dates?",
-        "response": "The submission dates for exam forms are announced at least one month before the exams commence."
-      },
-      {
-        "question": "Tell me the exam schedule",
-        "response": "You may find the detailed exam schedule on the college website or on notice boards around the campus."
-      }
-    ]
+    "question": "GPCK admission process?",
+    "response": "Admissions at Government Polytechnic College, Kota are conducted through the Directorate of Technical Education, Rajasthan, based on 10th-grade merit and the centralized counseling process."
   },
   {
-    "intent": "check_results",
-    "patterns": [
-      {
-        "question": "How can I check my results online?",
-        "response": "You can check your results online by entering your enrollment number on the college's official result portal."
-      },
-      {
-        "question": "How to see the result?",
-        "response": "Visit the official college website and navigate to the 'Results' section to view your marks."
-      },
-      {
-        "question": "When will the exam results come out?",
-        "response": "Results are typically released within 30 days after the completion of exams."
-      },
-      {
-        "question": "I want to download the marksheet",
-        "response": "Marksheet downloads are available on the result portal once the results have been declared."
-      },
-      {
-        "question": "Diploma exam results",
-        "response": "Diploma exam results are published online and communicated via official college announcements."
-      }
-    ]
+    "question": "Tell me about admissions",
+    "response": "Admissions to diploma courses at GPCK usually start in June or July every year. You must apply through the Rajasthan Polytechnic online counseling process."
   },
   {
-    "intent": "hostel_facility",
-    "patterns": [
-      {
-        "question": "Is hostel facility available in the college?",
-        "response": "Yes, the college provides separate hostels for boys and girls, with limited availability."
-      },
-      {
-        "question": "Tell me about the hostel",
-        "response": "The hostel offers basic accommodation, mess facilities, and security for the students."
-      },
-      {
-        "question": "Boys and girls hostel?",
-        "response": "Separate hostels are available on campus for boys and girls."
-      },
-      {
-        "question": "Is there a mess facility in the hostel?",
-        "response": "Yes, the hostel mess serves nutritious meals to the residents."
-      },
-      {
-        "question": "College hostel fees",
-        "response": "Hostel fees are charged separately from tuition fees and cover accommodation and mess charges."
-      }
-    ]
+    "question": "When does admission start?",
+    "response": "Admissions at Government Polytechnic College, Kota generally begin in June or July, after the declaration of 10th board results and the release of the counseling schedule by DTE Rajasthan."
+  }
+]
   },
   {
-    "intent": "scholarships",
-    "patterns": [
-      {
-        "question": "Are there any scholarships available for students?",
-        "response": "Yes, various scholarships are offered based on merit, category, and financial need."
-      },
-      {
-        "question": "How do I apply for a scholarship?",
-        "response": "You may apply for scholarships by submitting the required application forms and documents at the scholarship office."
-      },
-      {
-        "question": "State or central scholarships?",
-        "response": "Both state and central government scholarships are available to eligible students."
-      },
-      {
-        "question": "What is the scholarship eligibility?",
-        "response": "Eligibility criteria depend on academic performance, category, and income limits."
-      },
-      {
-        "question": "Will I get financial aid?",
-        "response": "Financial aid is provided to deserving students after verification of eligibility and supporting documents."
-      }
-    ]
-  },
+  "intent": "fee_structure",
+  "patterns": [
+    {
+      "question": "What is the fee structure of diploma courses?",
+      "response": "At Government Polytechnic College, Kota, the diploma course fee is approximately ₹9,470 per year for regular students, as per government norms."
+    },
+    {
+      "question": "What are the diploma fees?",
+      "response": "The annual fee for diploma courses at GPCK is around ₹9,470."
+    },
+    {
+      "question": "Branch-wise fees?",
+      "response": "The fee structure at GPCK is generally the same for all branches, as it follows the standard fee prescribed by the Directorate of Technical Education, Rajasthan."
+    },
+    {
+      "question": "Tell me the fee details",
+      "response": "The total annual fee at GPCK is approximately ₹9,470. Additional charges may apply for hostel accommodation and examination fees if applicable."
+    },
+    {
+      "question": "What is the college fee?",
+      "response": "The college fee at GPCK is approximately ₹9,470 per year."
+    }
+  ]
+},
+  {
+  "intent": "academic_calendar",
+  "patterns": [
+    {
+      "question": "Where can I find the academic calendar?",
+      "response": "The academic calendar of Government Polytechnic College, Kota is available on the official DTE Rajasthan website or can be obtained from the college notice board."
+    },
+    {
+      "question": "When will the calendar be released?",
+      "response": "The academic calendar is usually released by the Directorate of Technical Education, Rajasthan before the commencement of each academic session."
+    },
+    {
+      "question": "Semester start dates?",
+      "response": "At GPCK, odd semesters typically start in July and even semesters in January, depending on the DTE Rajasthan schedule."
+    },
+    {
+      "question": "College calendar?",
+      "response": "You can check or download the academic calendar from the DTE Rajasthan portal or inquire directly at the college administration office."
+    },
+    {
+      "question": "Where can I get the holiday list?",
+      "response": "The holiday list is a part of the academic calendar issued by DTE Rajasthan and is also displayed on the GPCK notice board."
+    }
+  ]
+},
+
+  {
+  "intent": "syllabus_info",
+  "patterns": [
+    {
+      "question": "What is the syllabus for diploma students?",
+      "response": "The syllabus at Government Polytechnic College, Kota is designed as per the Board of Technical Education Rajasthan (BTER) and follows AICTE guidelines, including theory subjects and practical labs."
+    },
+    {
+      "question": "What is the syllabus?",
+      "response": "You can download the branch-wise syllabus from the official BTER website or inquire at the academic section of GPCK."
+    },
+    {
+      "question": "Diploma subjects list?",
+      "response": "Each diploma branch at GPCK has its own subject list. Common subjects in the first year include Engineering Mathematics, Applied Physics, Chemistry, Communication Skills, and Workshop Practice."
+    },
+    {
+      "question": "Where can I find syllabus updates?",
+      "response": "Syllabus updates are published on the official Board of Technical Education Rajasthan (BTER) website and are also notified by GPCK departments."
+    },
+    {
+      "question": "Course content details?",
+      "response": "The course content includes core theoretical knowledge, practical training, and skill development modules relevant to each engineering branch offered at GPCK."
+    }
+  ]
+},
+
+  {
+  "intent": "exam_notices",
+  "patterns": [
+    {
+      "question": "Where do I find exam-related notices and updates?",
+      "response": "At GPCK, exam-related notices are published on the official college notice boards and also available on the Board of Technical Education Rajasthan (BTER) website."
+    },
+    {
+      "question": "Where is the exam notice board?",
+      "response": "The exam notice board at GPCK is located near the main administrative office and departmental buildings."
+    },
+    {
+      "question": "I want to see the exam timetable",
+      "response": "Exam timetables for GPCK students are released by BTER and displayed on both the official BTER website and the college notice board."
+    },
+    {
+      "question": "Exam form submission dates?",
+      "response": "Exam form submission dates are announced by BTER and notified at GPCK through departmental notices and official college communication."
+    },
+    {
+      "question": "Tell me the exam schedule",
+      "response": "The detailed exam schedule is provided by BTER and made available on their website. It is also displayed on GPCK’s notice boards before the exam period."
+    }
+  ]
+},
+
+  {
+  "intent": "check_results",
+  "patterns": [
+    {
+      "question": "How can I check my results online?",
+      "response": "For GPCK students, diploma results can be checked on the official Board of Technical Education Rajasthan (BTER) website by entering your roll number or enrollment number."
+    },
+    {
+      "question": "How to see the result?",
+      "response": "Visit the BTER official website (http://techedu.rajasthan.gov.in) and go to the 'Examination Results' section to view your result."
+    },
+    {
+      "question": "When will the exam results come out?",
+      "response": "BTER usually declares diploma exam results within 30 to 45 days after the completion of exams. Keep checking the official website for updates."
+    },
+    {
+      "question": "I want to download the marksheet",
+      "response": "Once results are declared, provisional marksheets can be downloaded from the BTER result portal. The original marksheets are later distributed by GPCK."
+    },
+    {
+      "question": "Diploma exam results",
+      "response": "Diploma results for GPCK are published by BTER and available online at their official portal. The college also puts up result notices on the campus notice board."
+    }
+  ]
+},
+
+  {
+  "intent": "hostel_facility",
+  "patterns": [
+    {
+      "question": "Is hostel facility available in the college?",
+      "response": "No, GPCK does not offer hostel facilities for students. You may explore nearby private hostels or PG accommodations."
+    },
+    {
+      "question": "Tell me about the hostel",
+      "response": "Government Polytechnic College, Kota does not have its own hostel. Students generally arrange for private accommodation nearby."
+    },
+    {
+      "question": "Boys and girls hostel?",
+      "response": "Currently, GPCK does not provide hostel facilities for either boys or girls. Private hostels and PGs are available around the campus."
+    },
+    {
+      "question": "Is there a mess facility in the hostel?",
+      "response": "No, as the college does not offer hostel accommodation, there is no mess facility provided by GPCK."
+    },
+    {
+      "question": "College hostel fees",
+      "response": "GPCK does not charge any hostel fees as it does not have hostel facilities. Students opting for private hostels must bear those expenses separately."
+    }
+  ]
+},
+
+  {
+  "intent": "scholarships",
+  "patterns": [
+    {
+      "question": "Are there any scholarships available for students?",
+      "response": "Yes, GPCK students can apply for various scholarships like Pragati, Post-Matric, and Scooty Yojana, depending on eligibility."
+    },
+    {
+      "question": "How do I apply for a scholarship?",
+      "response": "You can apply online through the official scholarship portals like SJE Rajasthan or NSP (National Scholarship Portal), and submit documents as required."
+    },
+    {
+      "question": "State or central scholarships?",
+      "response": "GPCK students are eligible for both state (Rajasthan government) and central (AICTE/NSP) scholarships."
+    },
+    {
+      "question": "What is the scholarship eligibility?",
+      "response": "Eligibility varies: for example, Pragati is for girl students from economically weaker sections, and the Scooty Yojana requires 75% or above in 12th standard."
+    },
+    {
+      "question": "Will I get financial aid?",
+      "response": "Yes, if you meet the criteria such as income limits, caste/category, and academic performance, you may receive financial assistance or benefits like free textbooks, fee reimbursement, or even a scooty."
+    }
+  ]
+},
+
   {
     "intent": "anti_ragging_policy",
     "patterns": [
@@ -280,41 +282,392 @@
   },
 
   {
-    "intent": "college ke bare mein",
-    "patterns": [
-      {
-        "question": "college ke baare mein batao",
-        "response": "The college maintains a zero-tolerance policy towards ragging and strictly adheres to anti-ragging laws."
-      },
-      {
-        "question": "college kesa hai",
-        "response": "Ragging is strictly prohibited on campus and surrounding areas."
-      },
-      {
-        "question": "What are the anti-ragging rules?",
-        "response": "Anti-ragging rules require immediate reporting of incidents and strict action against offenders."
-      },
-      {
-        "question": "How to file a ragging complaint?",
-        "response": "Complaints can be filed with the anti-ragging committee or through the official college grievance portal."
-      },
-      {
-        "question": "Who is on the ragging committee?",
-        "response": "The anti-ragging committee includes faculty members and senior student representatives."
-      }
-    ]
-  },
+  "intent": "cs_department_info",
+  "patterns": [
+    {
+      "question": "What is taught in the Computer Science department at GPCK?",
+      "response": "The CS department covers programming languages (like C, Python), data structures, web development, DBMS, and networking fundamentals."
+    },
+    {
+      "question": "Which programming languages are taught?",
+      "response": "Students are taught C, Python, and also basic web languages like HTML, CSS, and JavaScript."
+    },
+    {
+      "question": "Is there a computer lab in CS department?",
+      "response": "Yes, GPCK has a dedicated computer lab for CS students with internet access and updated software tools."
+    },
+    {
+      "question": "What kind of projects do CS diploma students do?",
+      "response": "Projects may include basic websites, database applications, mini-games, and simple automation systems using programming."
+    },
+    {
+      "question": "Are internships available in CS department?",
+      "response": "Yes, CS students are encouraged to do internships during the 5th or 6th semester, often at local IT firms or through government skill development programs."
+    },
+    {
+      "question": "Is coding taught practically?",
+      "response": "Yes, practical sessions are regularly held in the computer lab where students write and run code under faculty guidance."
+    },
+    {
+      "question": "What job roles can I get after diploma in CS from GPCK?",
+      "response": "After diploma, students can work as junior software developers, data entry operators, IT support staff, or pursue further education like BCA or lateral entry in B.Tech."
+    },
+    {
+      "question": "Can I prepare for government exams after CS diploma?",
+      "response": "Yes, diploma students from CS can apply for various government posts like Junior Engineer (JE), Data Operator, or pursue SSC and state-level exams."
+    },
+    {
+      "question": "Do you provide placement support in CS department?",
+      "response": "Placement assistance is available and students are also encouraged to attend job fairs and campus drives organized by DTE Rajasthan."
+    },
+    {
+      "question": "How many semesters are there in CS diploma?",
+      "response": "The diploma course is of 3 years duration divided into 6 semesters, including theoretical subjects, practicals, and a final project."
+    }
+  ]
+},
+
+{
+  "intent": "principal_faculty_info",
+  "patterns": [
+    {
+      "question": "Who is the principal of Government Polytechnic College, Kota?",
+      "response": "The current principal of GPCK is Prof. Rajesh Sharma. You can find the updated information on the official college website."
+    },
+    {
+      "question": "How can I contact the principal?",
+      "response": "You can contact the principal through the college office phone number or email, available on the official website."
+    },
+    {
+      "question": "Tell me about the faculty at GPCK.",
+      "response": "GPCK has qualified and experienced faculty members across all departments dedicated to student development and practical learning."
+    },
+    {
+      "question": "Are the faculty members permanent or visiting?",
+      "response": "Most faculty members at GPCK are permanent, with some visiting lecturers appointed as per requirement."
+    },
+    {
+      "question": "How can I meet a faculty member for academic help?",
+      "response": "You can meet faculty during their office hours or schedule an appointment through the department office."
+    },
+    {
+      "question": "Do faculty provide extra coaching or support?",
+      "response": "Yes, faculty members often conduct extra classes and doubt-clearing sessions especially before exams."
+    },
+    {
+      "question": "Where can I find faculty contact details?",
+      "response": "Faculty contact information is usually available on the college website or notice boards within respective departments."
+    },
+    {
+      "question": "How experienced are the CS faculty at GPCK?",
+      "response": "The CS faculty have years of teaching experience and practical exposure to current industry technologies."
+    },
+    {
+      "question": "Does the principal hold any meetings with students?",
+      "response": "Yes, the principal regularly holds meetings with student representatives to address concerns and improve college facilities."
+    },
+    {
+      "question": "Are the faculty members approachable?",
+      "response": "Faculty members at GPCK are known to be approachable and supportive towards students’ academic and personal growth."
+    }
+  ]
+},
+
+{
+  "intent": "electrical_department_info",
+  "patterns": [
+    {
+      "question": "Who is the head of the Electrical Department?",
+      "response": "The head of the Electrical Department at GPCK is Prof. [Name]. You can check the official website for updated details."
+    },
+    {
+      "question": "Tell me about the Electrical Department faculty.",
+      "response": "The Electrical Department has experienced and dedicated faculty members focusing on practical and theoretical knowledge."
+    },
+    {
+      "question": "How to contact Electrical Department faculty?",
+      "response": "You can contact Electrical faculty through the department office or email addresses listed on the college website."
+    },
+    {
+      "question": "Do Electrical faculty provide extra coaching?",
+      "response": "Yes, extra coaching and doubt clearing sessions are arranged by the Electrical Department faculty as needed."
+    }
+  ]
+},
+{
+  "intent": "mechanical_department_info",
+  "patterns": [
+    {
+      "question": "Who is the head of the Mechanical Department?",
+      "response": "The Mechanical Department is headed by Prof. [Name]. Latest information is available on the official GPCK website."
+    },
+    {
+      "question": "Tell me about Mechanical Department faculty.",
+      "response": "Mechanical Department faculty members are well-qualified with strong industry experience and focus on hands-on learning."
+    },
+    {
+      "question": "How can I contact Mechanical faculty?",
+      "response": "Faculty contact details are available at the department office and on the official college website."
+    },
+    {
+      "question": "Are extra classes available in Mechanical Department?",
+      "response": "Yes, extra classes and lab sessions are conducted by the Mechanical faculty to support student learning."
+    }
+  ]
+},
+{
+  "intent": "civil_department_info",
+  "patterns": [
+    {
+      "question": "Who leads the Civil Department?",
+      "response": "The Civil Department is led by Prof. [Name]. You can find current details on the official GPCK website."
+    },
+    {
+      "question": "Tell me about Civil Department faculty.",
+      "response": "Civil Department faculty are experienced professionals who emphasize both theoretical knowledge and practical skills."
+    },
+    {
+      "question": "How to reach Civil Department faculty?",
+      "response": "Contact details for Civil faculty are available on the college website and notice boards in the Civil Department."
+    },
+    {
+      "question": "Does the Civil Department offer extra help classes?",
+      "response": "Yes, faculty provide additional coaching and lab support especially before exams."
+    }
+  ]
+},
+
+{
+  "intent": "canteen_facility",
+  "patterns": [
+    {
+      "question": "Is there a canteen in the college?",
+      "response": "Yes, GPCK has a canteen that serves snacks and beverages for students and staff."
+    },
+    {
+      "question": "What food is available in the college canteen?",
+      "response": "The canteen offers a variety of snacks like samosas, sandwiches, tea, coffee, and cold drinks."
+    },
+    {
+      "question": "Is the canteen hygienic?",
+      "response": "Yes, the college ensures that the canteen maintains cleanliness and hygiene standards."
+    },
+    {
+      "question": "What are the canteen timings?",
+      "response": "The canteen is generally open from 8:00 AM to 5:00 PM on working days."
+    },
+    {
+      "question": "Are there any meal plans or discounts for students?",
+      "response": "Currently, there are no official meal plans or discounts, but the prices are kept affordable for students."
+    }
+  ]
+},
+
+{
+  "intent": "college_timing",
+  "patterns": [
+    {
+      "question": "What are the college timings?",
+      "response": "College timings vary by season: In summers, classes run from 7:00 AM to 1:00 PM, while in winters, timings are from 9:00 AM to 4:00 PM."
+    },
+    {
+      "question": "College opening hours?",
+      "response": "During summer, the college opens at 7 AM and closes at 1 PM. In winter, it operates from 9 AM to 4 PM."
+    },
+    {
+      "question": "When does the college start and end each day?",
+      "response": "In summer, college hours are 7:00 AM to 1:00 PM, and in winter, 9:00 AM to 4:00 PM."
+    },
+    {
+      "question": "Are timings different in summer and winter?",
+      "response": "Yes, GPCK follows summer timings of 7 AM to 1 PM and winter timings of 9 AM to 4 PM."
+    }
+  ]
+},
+
+{
+  "intent": "intake_capacity",
+  "patterns": [
+    {
+      "question": "What is the intake capacity of GPCK?",
+      "response": "GPCK offers diploma courses with an intake capacity of around 60 to 120 students per branch, depending on the department."
+    },
+    {
+      "question": "How many students are admitted in each course?",
+      "response": "Each diploma branch typically admits between 60 to 120 students annually at GPCK."
+    },
+    {
+      "question": "Branch-wise intake details?",
+      "response": "Intake varies by branch; for example, Computer Science and Electrical Engineering branches usually have 60 to 120 seats each."
+    },
+    {
+      "question": "What is the total yearly intake at GPCK?",
+      "response": "The total intake across all branches is approximately 600 students every year."
+    }
+  ]
+},
+
+{
+  "intent": "extracurricular_activities",
+  "patterns": [
+    {
+      "question": "What extracurricular activities are available at GPCK?",
+      "response": "GPCK offers various extracurricular activities including Anandam classes for personality development, educational visits, and project competitions."
+    },
+    {
+      "question": "Tell me about Anandam classes?",
+      "response": "Anandam classes focus on overall personality development and soft skills enhancement for students."
+    },
+    {
+      "question": "Does GPCK organize educational visits?",
+      "response": "Yes, GPCK regularly organizes educational visits and industrial tours to give students practical exposure."
+    },
+    {
+      "question": "Are there any project competitions?",
+      "response": "Yes, students participate in project competitions that encourage innovation and practical application of their skills."
+    },
+    {
+      "question": "What kind of activities help in student development?",
+      "response": "Activities like Anandam classes, visits to industries, and project competitions help in building technical skills and teamwork."
+    }
+  ]
+},
+
+{
+  "intent": "gpck_college_info_hinglish",
+  "patterns": [
+    {
+      "question": "GPCK mein admission kaise lena hota hai?",
+      "response": "Admission ke liye aapko state-level counselling process follow karna padta hai, jisme entrance exam ke basis par seat allot hoti hai."
+    },
+    {
+      "question": "College ka time kya hai?",
+      "response": "Winter mein college timing 9:00 AM se 4:00 PM tak hota hai, aur summer mein 7:00 AM se 1:00 PM tak."
+    },
+    {
+      "question": "College mein canteen hai kya?",
+      "response": "Haan, college mein ek basic canteen facility available hai jahan snacks aur tea milta hai."
+    },
+    {
+      "question": "GPCK mein hostel facility hai kya?",
+      "response": "Nahi, abhi GPCK mein hostel facility available nahi hai."
+    },
+    {
+      "question": "College ka environment kaisa hai?",
+      "response": "College ka environment academic ke saath-saath discipline oriented hai, aur faculty bhi supportive hoti hai."
+    },
+     {
+      "question": "GPCK mein kaun-kaun se diploma courses milte hain?",
+      "response": "Yahan par Computer Science, Electrical, Mechanical, Electronics, aur Civil Engineering jaise diploma courses available hain."
+    },
+    {
+      "question": "GPCK kya hai?",
+      "response": "GPCK ka full form hai Government Polytechnic College, Kota. Yeh Rajasthan sarkar ke under aane waala ek technical institute hai jo diploma courses offer karta hai."
+    },
+    {
+      "question": "Yeh college kaha located hai?",
+      "response": "Yeh college Kota, Rajasthan mein located hai aur Aerodrame circle ke paas aata hai."
+    },
+    {
+      "question": "College ki reputation kaisi hai?",
+      "response": "GPCK ek government college hai jiska reputation acha hai, yahan ke students ko technical field mein acchi knowledge milti hai."
+    },
+    {
+      "question": "Yeh college government hai ya private?",
+      "response": "GPCK ek **purely government college** hai jo Directorate of Technical Education (DTE) Rajasthan ke under aata hai."
+    }
+  ]
+},
+
+{
+  "intent": "department_faqs_hinglish",
+  "patterns": [
+    {
+      "question": "CS branch mein kya padaya jata hai?",
+      "response": "CS branch mein programming, networking, database, aur software development jaisi cheezein padayi jaati hain."
+    },
+    {
+      "question": "Electrical branch ka focus kis par hota hai?",
+      "response": "Electrical branch mein circuits, machines, power systems aur electronics ke practical knowledge par focus hota hai."
+    },
+    {
+      "question": "Mechanical branch mein kya seekhne ko milta hai?",
+      "response": "Mechanical branch mein design, manufacturing, thermodynamics aur machines ke bare mein detailed knowledge milti hai."
+    },
+    {
+      "question": "Kya departments mein lab facilities available hain?",
+      "response": "Haan, sabhi departments ke paas apni dedicated labs hoti hain jahan students practicals karte hain."
+    },
+    {
+      "question": "CS branch ka staff kaisa hai?",
+      "response": "CS branch ke faculties friendly aur helpful hain, aur wo technical aur theoretical dono guidance dete hain."
+    }
+  ]
+},
+
+{
+  "intent": "scholarship_projects_hinglish",
+  "patterns": [
+    {
+      "question": "Scholarship kaise milti hai?",
+      "response": "Agar aapka 12th mein 75% ya usse zyada hai to aapko scooty ya cash scholarship mil sakti hai Pragati yojna ke through."
+    },
+    {
+      "question": "Project competition hota hai kya college mein?",
+      "response": "Haan, har saal project competition hota hai jisme students apne innovative ideas present karte hain aur prizes bhi milte hain."
+    },
+    {
+      "question": "Scholarship ke liye apply kaise karein?",
+      "response": "Scholarship ke liye aapko online portal par apply karna hota hai, aur documents college ke scholarship section mein jama karne hote hain."
+    },
+    {
+      "question": "Government se kya scholarships milti hain?",
+      "response": "State aur Central Government dono ki taraf se SC/ST, OBC, aur meritorious students ke liye scholarship available hai."
+    },
+    {
+      "question": "Kya sabhi students ko scholarship milti hai?",
+      "response": "Nahi, scholarship eligibility aapke academic performance aur income certificate par depend karta hai."
+    }
+  ]
+},
+
+{
+  "intent": "about_gpck",
+  "patterns": [
+    {
+      "question": "Tell me about GPCK",
+      "response": "Government Polytechnic College, Kota (GPCK) is a reputed technical institute in Rajasthan offering diploma programs in engineering fields like Computer Science, Electrical, and Mechanical. The college is affiliated with BTER."
+    },
+    {
+      "question": "What is GPCK famous for?",
+      "response": "GPCK is known for quality technical education, experienced faculty, and its focus on practical skills along with academics."
+    },
+    {
+      "question": "Is GPCK a good college?",
+      "response": "Yes, GPCK is considered a good choice for diploma students due to its experienced faculty, lab facilities, and industry-oriented curriculum."
+    },
+    {
+      "question": "What courses does GPCK offer?",
+      "response": "GPCK offers diploma courses in Computer Science, Electrical Engineering, Mechanical Engineering, and more."
+    },
+    {
+      "question": "Is the faculty at GPCK good?",
+      "response": "Yes, the faculty at GPCK is well-qualified and supportive, focusing on both theory and practical knowledge.<br><img src='/static/images/college1.jpg' width='1000' height='200'>"
+    }
+  ]
+},
 
   {
   "intent": "faculty_info",
   "patterns": [
     {
-      "question": "Tell me about the faculty",
-      "response": "Here is our principal:<br><img src='/static/images/rk sharma.jpg' width='300' height='200'><br><b>Prof. Rajesh Sharma</b> (Principal)"
-    },
+  "question": "Tell me about the p",
+  "response": "Our principal is Prof. Rajesh Sharma.<br><img src='https://yourdomain.com/static/images/rk_sharma.jpg' width='300px' height='200px'><br><b>Prof. Rajesh Sharma</b> (Principal)"
+},
+
     {
       "question": "Who are the principal?",
-      "response": "Prof. Rajesh Sharma is the current Principal of Government Polytechnic College, Kota. He has vast experience in Mechanical Engineering and administration.<br><br><img src='/static/images/about_college.jpg' width='250' height='300'>"
+      "response": "Prof. Rajesh Sharma is the current Principal of Government Polytechnic College, Kota. He has vast experience in Mechanical Engineering and administration.<br><br><img src='/static/images/about college.jpg' width='100%' height='50%'>"
 
     },
     {
