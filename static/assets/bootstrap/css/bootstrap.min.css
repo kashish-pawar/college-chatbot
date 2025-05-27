@@ -23,10 +23,10 @@
   --teal: #20c997;
   --cyan: #17a2b8;
   --white: #fff;
-  --gray: #868e96;
+  /* --gray: #868e96; */
   /* --gray-dark: #343a40; */
   --primary: #ee0979;
-  --secondary: #ff6a00;
+  /* --secondary: #ff6a00; */
   --success: #28a745;
   --info: #17a2b8;
   --warning: #ffc107;
@@ -165,8 +165,9 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #a40654;
   text-decoration: underline;
+  transform: scale(1.1); /* Slight zoom */
+  transition: transform 0.2s ease-in-out; /* Smooth transition */
 }
 a:not([href]):not([class]),
 a:not([href]):not([class]):hover {
