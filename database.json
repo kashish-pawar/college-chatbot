@@ -323,9 +323,24 @@
     {
       "question": "How many semesters are there in CS diploma?",
       "response": "The diploma course is of 3 years duration divided into 6 semesters, including theoretical subjects, practicals, and a final project."
+    },
+    {
+      "question": "How many seats are there in CSE branch",
+      "response": "At Government Polytechnic College, Kota (GPCK), the Computer Science and Engineering (CSE) branch has a total of 42 seats available for admission. Additionally, a few seats may be available for lateral entry students (those joining directly in the second year), but the main first-year intake for CSE is 42 students."
+    },
+    {
+  "question": "Official website link of GPCK",
+  "response": "This is the official website of GPCK: <a href=\"https://gpck.rajasthan.gov.in/\">https://gpck.rajasthan.gov.in/</a>"
+},
+
+    {
+      "question": "How many branches in GPCK",
+      "response": "Government Polytechnic College, Kota (GPCK) offers a total of 8 diploma engineering branches. These branches are designed to provide students with practical and industry-relevant technical education over a 3-year program. The eight branches offered at GPCK are Civil Engineering, Mechanical Engineering, Electrical Engineering, Instrumentation Engineering, Chemical Engineering, Electronics Engineering, Plastic Technology, and Computer Science & Engineering (CSE). Each of these diploma programs has a duration of 3 years and is affiliated with the Board of Technical Education, Rajasthan."
     }
+
   ]
 },
+
 
 {
   "intent": "principal_faculty_info",
@@ -369,7 +384,12 @@
     {
       "question": "Are the faculty members approachable?",
       "response": "Faculty members at GPCK are known to be approachable and supportive towards students’ academic and personal growth."
+    },
+    {
+      "question": "Name of CSE faculty?",
+      "response": "The Computer Science & Engineering (CSE) department at Government Polytechnic College, Kota (GPCK) is supported by a team of qualified and dedicated faculty members. The Head of Department (HOD) is Mr. Narendra Jain. Other esteemed faculty members in the CSE department include Mr. Dheerendra Bagdi Mr. Rajesh Dadhich, Ms. Kavita Sharma, Ms. Iti Sharma, Mr. Girraj Vyas, Ms. Nirmala, Ms. Nidhi, and Mr. Mahendra Kumar. Together, they contribute to providing quality technical education, practical training, and academic guidance to students in the field of computer science."
     }
+
   ]
 },
 
