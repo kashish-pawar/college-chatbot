@@ -16,14 +16,14 @@ app.static_folder = 'static'
 flask_recaptcha.Markup = Markup
 app.config.update(
     RECAPTCHA_ENABLED=True, 
-    RECAPTCHA_SITE_KEY="6LdbAx0aAAAAAANl04WHtDbraFMufACHccHbn09L",
-    RECAPTCHA_SECRET_KEY="6LdbAx0aAAAAAMmkgBKJ2Z9xsQjMD5YutoXC6Wee"
+    RECAPTCHA_SITE_KEY="6LfAKEsrAAAAANfmij9uXaudcfcJO7brhQ9Qfeau",
+    RECAPTCHA_SECRET_KEY="6LfAKEsrAAAAAPghsnEWUx67X7_d8rfBPgh6k-SC"
 )
 recaptcha = ReCaptcha(app=app)
 
 # Database connectivity (XAMPP default: root user, no password)
 conn = psycopg2.connect(
-     host="dpg-d0pvmd8dl3ps73b64sh0-a.oregon-postgres.render.com",
+  host="dpg-d0pvmd8dl3ps73b64sh0-a.oregon-postgres.render.com",
     user="kashish",
     password="CqyEI4gDtw7Td8csg1qZlVw3EnTFl98d",
     dbname="chatbot_00hf",
@@ -116,7 +116,6 @@ def logout():
 def get_bot_response():
     userText = request.args.get('msg')
     return str(get_dynamic_answer(userText))
-
 
 if __name__ == "__main__":
     app.run(debug=True)
